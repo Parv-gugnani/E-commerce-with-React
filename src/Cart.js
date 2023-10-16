@@ -4,4 +4,4 @@ import withContext from "./withContext";
 const Cart = (props) => {
   //here
 };
-export default Cart;
+export default withContext(Cart);
