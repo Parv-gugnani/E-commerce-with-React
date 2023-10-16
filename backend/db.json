@@ -43,13 +43,6 @@
       "price": 109.99,
       "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
       "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
-    },
-    {
-      "email": "regular@example.com",
-      "password": "password"
-    },
-    {
-      "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJlZ3VsYXJAZXhhbXBsZS5jb20iLCJpYXQiOjE2MDE1Mzk3NzEsImV4cCI6MTYwMTU0MzM3MSwic3ViIjoiMSJ9.RAFUYXxG2Z8W8zv5-4OHun8CmCKqi7IYqYAc4R7STBM"
     }
   ]
 }
